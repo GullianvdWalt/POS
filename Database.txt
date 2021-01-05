@@ -1,0 +1,12 @@
+Tables
+
+Orders
+Order_Details
+Products
+Suppliers
+Transactions
+Company
+Settings
+
+
+User
